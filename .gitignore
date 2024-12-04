@@ -102,3 +102,4 @@ desktop.ini
 *.ckpt
 *.joblib
 *.zip
+*.parquet
